@@ -11,7 +11,7 @@ Instead of manually filling in placeholders, you paste the meta-prompt along wit
 ## HOW TO USE
 
 ### Step 1: Run the Prompt
-Paste the meta-prompt (from `multi-persona-template-filler-prompt.md`) into ChatGPT or Claude. The blank template is already embedded in the prompt.
+Paste the [meta-promp](./multi-persona-prompt-maker-helper.md) into ChatGPT or Claude. The blank template is already embedded in the prompt.
 
 ### Step 2: Provide Your Use Case
 The LLM will ask for your use case details. Provide:
